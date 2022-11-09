@@ -1,6 +1,8 @@
 # projetinhos
+É recomendado que você esteja utilizando a versão mais recente de Python para evitar problemas de compatibilidade.
+Para saber mais sobre as versões, acesse https://www.python.org/downloads/ e baixe a versão mais recente.
 
-***Projetinho de um aplicativo anti inatividade que move o mouse sozinho dentro de um periodo específico de tempo.***
+***Projetinho de um aplicativo anti-inatividade que move o mouse sozinho dentro de um periodo específico de tempo.***
 
 - Por padrão, o tempo de atuação do aplicativo é de 0.5 segundos, com duração de 0.5 segundos de animação(tempo que o mouse vai demorar pra deslocar o ponteiro).
 Para alterar o tempo de duração e o tempo da animação, é necessario mudar alguns parametros dentro do codigo:
