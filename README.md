@@ -26,7 +26,7 @@ A versão executável foi adicionada pra melhor compatibilidade com todos os pub
 É isso! Bom uso. O pixel-tracker é pra saber precisamente em qual área da tela o ponteiro se encontra, mas é apenas
 pra uso técnico, não tem nenhuma outra funcionalidade.
 
-Nota importante:Ainda não é possível alterar o tempo que o ponteiro leva pra ir de um ponto ao outro, mas eu to trabalhando numa solução e lanço 
+Nota importante: Ainda não é possível alterar o tempo que o ponteiro leva pra ir de um ponto ao outro, mas eu to trabalhando numa solução e lanço 
 o mais rápido possivel.
 
  
