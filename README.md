@@ -11,5 +11,9 @@ Para alterar o tempo de duração e o tempo da animação, é necessario mudar a
         pag.moveTo(x,y,.5) --> .5 é o tempo da animação. É necessário altes para um valor valido de segundos.
         time.sleep(.5) --> Tempo que o aplicativo espera até o próximo movimento. Tempo em segundos também.
         
+O arquivo am2.zip é a versão executável dos dois aplicativos em um só, pra economizar janela no seu pc.
+A versão executável foi adicionada pra melhor compatibilidade com todos os publicos, nem todo mundo tem python instalado no PC.
+
+
 É isso! Bom uso. O pixel-tracker é pra saber precisamente em qual área da tela o ponteiro se encontra, mas é apenas
 pra uso técnico, não tem nenhuma outra funcionalidade.
