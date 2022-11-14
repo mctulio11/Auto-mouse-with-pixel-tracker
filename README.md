@@ -30,4 +30,4 @@ Nota importante: Ainda não é possível alterar o tempo que o ponteiro leva pra
 o mais rápido possivel.
 
  
-***mctulio11.
+***mctulio11.***
