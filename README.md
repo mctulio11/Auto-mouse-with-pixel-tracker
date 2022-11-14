@@ -1,4 +1,4 @@
-# projetinhos
+# AM
 É recomendado que você esteja utilizando a versão mais recente de Python para evitar problemas de compatibilidade.
 Para saber mais sobre as versões, acesse https://www.python.org/downloads/ e baixe a versão mais recente.
 
